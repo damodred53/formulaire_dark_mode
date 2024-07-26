@@ -35,6 +35,8 @@
   <li>Lancez l'application : <code>yarn run dev</code></li>
 </ol>
 
+Note : pour réaliser ce formulaire, j'ai refait et adapté par moi même le code de cette vidéo d'entrainement : https://www.youtube.com/watch?v=1HLXqaoZcHk
+
 <h2>👤 Auteur</h2>
 
 <ul>
